@@ -8,7 +8,12 @@
 
 * Judith Moscovits book on Robots that talk and listen.
 
-* Zhou Yu thesis: http://www.cs.cmu.edu/~zhouyu/PhD_thesis.pdf
+* Zhou Yu [thesis](http://www.cs.cmu.edu/~zhouyu/PhD_thesis.pdf)
+
+* Dynamics of linguistic interaction: [ESSLI workshop](http://www.christinehowes.com/index.php/events/fadli)
+
+* Ethics: Illah Nourbakhsh
+
 
 
 # Fun stuff

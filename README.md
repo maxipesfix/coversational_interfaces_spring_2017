@@ -11,7 +11,7 @@ Topics:
 - Final project
 
 
-Week 1: 
+##Week 1: 
 - Course overview
 - What makes it a successful verbal interaction?
   * Types of verbal interactions and their metrics of success
@@ -20,13 +20,13 @@ Week 1:
   * What is a good toolchain? (involves final rendering, but maybe not in the first cycle)
 - Introduction to of the Assignment 1: switch-based dialogue system.
 
-Week 2:
+##Week 2:
 - Discuss reading assignment 1.
 - Discuss design assignment 1.
 - Interactive voice application architecture: States, NLP
 - Introduction to Assignment 2: States and NLP.
 
-Week 3:
+##Week 3:
 - Discuss reading assignment 2
 - Duscuss design assignment 2.
 - Generation, non-verbal behaviors.

@@ -40,6 +40,7 @@ Final project: 50%
 ## Week 2 (1/30)
 - Student presentation: Media equation
 - Student presentation: Wired for speech
+- Guest Speaker: Alonso Martinez (Disney Pixar)
 - Discuss reading assignment 1
 - Discuss design assignment 1
 - Finite State Machine model of the dialogue
@@ -56,6 +57,7 @@ Final project: 50%
 
 ## Week 4 (2/13) 
 - Presentations: Keepon; Healthcare robots.
+- Guest speaker: Justin Woo (Jibo)
 - Project proposal discussions.
 - NLP, Regular expressions
 

@@ -3,7 +3,7 @@
 
 # The Performance Measurement & Evaluation
 
-- It's a method to be used in Machine Learning (ML), Natural Language Processing (NLP), Information Research (IR)
+- It's a method to be used in Machine Learning (ML), Natural Language Processing (NLP), Information Retrieval (IR)
 
 - Explain this with an example:
 

@@ -28,7 +28,7 @@ Student presentations: 20%
 Homeworks: 20% 
 Final project: 50%
 
-##Week 1 (1/23)
+## Week 1 (1/23)
 - Course overview
 - What makes it a successful coversational interaction?
   * Types of conversational interactions and their metrics of success
@@ -37,50 +37,54 @@ Final project: 50%
 - Introduction to the tools.
 - Introduction to of the Assignment 1: switch-based dialogue system.
 
-##Week 2 (1/30)
+## Week 2 (1/30)
 - Student presentation: Media equation
 - Student presentation: Wired for speech
 - Discuss reading assignment 1
 - Discuss design assignment 1
-- Building a simple dialogue system: States, NLP
-- Introduction to Assignment 2: States and NLP.
+- Finite State Machine model of the dialogue
+- Introduction to Assignment 2: task-oriented and non-task-oriented chatbots.
 
-##Week 3 (2/6) 
+## Week 3 (2/6) 
 - Student presentation: Task-oriented conversational systems. Task space.
 - Student presentation: Non-task-oriented conversational systems. Phatic communion.
-- Project proposals due.
 - Discuss reading assignment 2.
 - Duscuss design assignment 2.
-- Verbal and Non-verbal behaviors.
-- Generation.
-- Introduction to Assignment 3: Generation of verbal and nonverbal behaviors.
+- Review: FSM.
+- Grounding, evidence of understanding, repair strategies
+- Introduction to Assignment 3: self-repairs, other-repairs, embedded corrections.
 
 ## Week 4 (2/13) 
-- Project proposal discussion.
+- Presentations: Keepon; Healthcare robots.
+- Project proposal discussions.
+- NLP, Regular expressions
 
 ## Weeek 5 (2/20)
-- Guest speaker
+- Guest speaker: Suzanne Wertheim
 
 ## Week 6 (2/27)
-- Character and audience 
+- Evalutating coverage, accuracy of a conversational system.
 
 ## Week 7 (3/6)
-- Ethics
+- Presentations: Hiroshi Ishiguro robots (Hugvie, Elfoid); Tomotaka Takahashi robots (Robohon, Kirobo)
+- Review: Regular expressions
+- Intruducing the sample code for nonverbal behavior generation.
 
 ## Week 8 (3/13)
+- Review: Regular Expressions, nonverbal behavior generation sample code.
 - Project update report 1.
 
 ## Week 9 (3/20)
 No class, mid-semester break
 
 ## Week 10 (3/27)
-- Shipping a conversational interface product.
+- TBD
 
 ## Week 11 (4/3)
 Project update report 2.
 
 ## Week 12 (4/10)
-- Physical interaction
+- TBD
 
 ## Week 13 (4/17)
 - TBD

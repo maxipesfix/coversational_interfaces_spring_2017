@@ -28,6 +28,7 @@ var breathMax = 2;
 var breathInterval = setInterval(updateBreath, 1000 / fps);
 var maxEyeHeight = 14;
 var curEyeHeight = maxEyeHeight;
+var curEyeColor = "black"
 var eyeOpenTime = 0;
 var timeBtwBlinks = 4000;
 var blinkUpdateTime = 200;                    
@@ -131,8 +132,8 @@ function redraw() {
 	context.drawImage(images["rightArm"], x - 15, y - 42 - breathAmt);
   }
 	
-  drawEllipse(x + 47, y - 68 - breathAmt, 8, curEyeHeight, "black"); // Left Eye
-  drawEllipse(x + 58, y - 68 - breathAmt, 8, curEyeHeight, "black"); // Right Eye
+  drawEllipse(x + 47, y - 68 - breathAmt, 8, curEyeHeight, curEyeColor); // Left Eye
+  drawEllipse(x + 58, y - 68 - breathAmt, 8, curEyeHeight, curEyeColor); // Right Eye
 }
 
 function drawEllipse(centerX, centerY, width, height, color) {
@@ -154,6 +155,10 @@ function drawEllipse(centerX, centerY, width, height, color) {
   context.fillStyle = color;
   context.fill();
   context.closePath();	
+}
+
+function setEyeColor(color) {
+    curEyeColor = color
 }
 
 function updateBreath() { 

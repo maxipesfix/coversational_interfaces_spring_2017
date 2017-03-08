@@ -11,6 +11,7 @@ function startDictation() {
 
     var recognition = new webkitSpeechRecognition();
 
+    /* Nonverbal actions at the start of listening */
     setTimeBetweenBlinks(fastTimeBetweenBlinks);
     setBreathInc(slowBreathInc);
 
@@ -27,8 +28,8 @@ function startDictation() {
       var user_said = e.results[0][0].transcript;
       recognition.stop();
 
+      /* Nonverbal actions at the end of listening */
       setTimeBetweenBlinks(slowTimeBetweenBlinks);
-
       jump(); //perform a nonverbal action from nonverbal.js
 
       var bot_response = decide_response(user_said)
@@ -77,6 +78,8 @@ function decide_response(user_said) {
  *speak out some text 
  */
 function speak(text, callback) {
+
+  /* Nonverbal actions at the start of robot's speaking */
   setBreathInc(fastBreathInc); 
 
   var u = new SpeechSynthesisUtterance();
@@ -85,6 +88,7 @@ function speak(text, callback) {
 
   u.onend = function () {
       
+      /* Nonverbal actions at the end of robot's speaking */
       setBreathInc(slowBreathInc); 
 
       if (callback) {

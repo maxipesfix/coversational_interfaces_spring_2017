@@ -1,5 +1,4 @@
-# Useful regular expressions:
-
+# Useful regular expressions
 
 ## Allowing one or more alternative words: (word1|word2|... )
 

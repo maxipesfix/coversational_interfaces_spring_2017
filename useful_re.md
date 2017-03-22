@@ -1,7 +1,7 @@
 # Useful regular expressions:
 
 
-* Allowing one or more alternative words: (word1|word2|... )
+## Allowing one or more alternative words: (word1|word2|... )
 
  Example:
  
@@ -15,7 +15,7 @@
     parse_array = ["It is good", "It is", "good"]
 
 
-* Ignoring contents of the parenthesis in the output: (?: )
+## Ignoring contents of the parenthesis in the output: (?: )
 
  Example:
 
@@ -29,7 +29,7 @@
     parse_array = ["It is good", "good"]
 
 
-* Comparing input with dictionaries
+## Comparing input with dictionaries
 
 ```javascript
 good_words = ['good', 'excellent', 'nice']

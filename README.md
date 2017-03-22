@@ -62,7 +62,7 @@ Final project: 50%
 - NLP, Regular expressions
 
 ## Weeek 5 (2/20)
-- Guest speaker: Suzanne Wertheim
+- Guest speaker: Suzanne Wertheim. Linguistic anthropology.
 
 ## Week 6 (2/27)
 - Evalutating coverage, accuracy of a conversational system.
@@ -73,20 +73,38 @@ Final project: 50%
 - Intruducing the sample code for nonverbal behavior generation.
 
 ## Week 8 (3/13)
-- Review: Regular Expressions, nonverbal behavior generation sample code.
-- Project update report 1.
+- Guest talk: Michael Chemers (UCSC). Theater and social robotics.
 
 ## Week 9 (3/20)
 No class, mid-semester break
 
 ## Week 10 (3/27)
-- TBD
+- Presentations: 
+1. Emotion:
+http://www.ccs.neu.edu/home/marsella/publications/MarGraPet_Review.pdf
+http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.386.221&rep=rep1&type=pdf
+https://en.wikipedia.org/wiki/Emotion_classification
+https://vimeo.com/112594888
+
+Focus: Express emotion in an agent? Examples of doing it via verbal and non-verbal behaviors?
+
+2. Personality:
+https://www.simplypsychology.org/personality-theories.html
+https://en.wikipedia.org/wiki/Big_Five_personality_traits
+https://www.scientificamerican.com/article/you-are-what-you-say/
+http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.143.9824&rep=rep1&type=pdf
+
+Focus: Why express personality in an agent? Examples of doing it via verbal and non-verbal behaviors?
+
+- Project update: milestone 1.
+- Review: Regular Expressions, nonverbal behavior generation sample code.
+
 
 ## Week 11 (4/3)
-Project update report 2.
+
 
 ## Week 12 (4/10)
-- TBD
+- Project update: milestone 2.
 
 ## Week 13 (4/17)
 - TBD

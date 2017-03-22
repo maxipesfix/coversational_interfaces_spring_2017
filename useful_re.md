@@ -1,4 +1,4 @@
-#Useful regular expressions:
+# Useful regular expressions:
 
 
 * Allowing one or more alternative words: (word1|word2|... )
@@ -8,10 +8,11 @@
  ```javascript
   var re1 = /(it is|it's|it) (.+)/i;
   var parse_array = user_said.match(re1) 
+```
 
   Input: It is good 
   parse_array = ["It is good", "It is", "good"]
-```
+
 
 * Ignoring contents of the parenthesis in the output: (?: )
 
@@ -20,10 +21,11 @@
 ```javascript
   var re2 = /(?:it is|it's|it) (.+)/i;
   var parse_array = user_said.match(re2) 
+```
 
   Input: It is good 
   parse_array = ["It is good", "good"]
-```
+
 
 * Comparing input with dictionaries
 

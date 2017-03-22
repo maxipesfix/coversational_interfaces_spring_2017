@@ -10,8 +10,8 @@
   var parse_array = user_said.match(re1) 
 ```
 
-  Input: It is good 
-  parse_array = ["It is good", "It is", "good"]
+  * Input: It is good 
+  * parse_array = ["It is good", "It is", "good"]
 
 
 * Ignoring contents of the parenthesis in the output: (?: )
@@ -23,8 +23,9 @@
   var parse_array = user_said.match(re2) 
 ```
 
-  Input: It is good 
-  parse_array = ["It is good", "good"]
+  * Input: It is good 
+
+  * parse_array = ["It is good", "good"]
 
 
 * Comparing input with dictionaries
@@ -50,17 +51,17 @@ if (good_words.indexOf(str) >= 0) {
 }
 ```
 
-Input: It is good
-parser_array = ["It is good", "good"]
-good_words.indexOf(str) = 0
-bad_words.indexOf(str) = -1
+  * Input: It is good
+  * parser_array = ["It is good", "good"]
+    good_words.indexOf(str) = 0
+    bad_words.indexOf(str) = -1
 
-Input: It's nice
-parser_array = ["It's nice", "nice"]
-good_words.indexOf(str) = 2
-bad_words.indexOf(str) = -1
+  * Input: It's nice
+  * parser_array = ["It's nice", "nice"]
+    good_words.indexOf(str) = 2
+    bad_words.indexOf(str) = -1
 
-Input: It sucks
-parser_array = ["It sucks", "sucks"]
-good_words.indexOf(str) = -1
-bad_words.indexOf(str) = 2
+   * Input: It sucks
+     parser_array = ["It sucks", "sucks"]
+     good_words.indexOf(str) = -1
+     bad_words.indexOf(str) = 2

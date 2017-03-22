@@ -10,7 +10,7 @@
   var parse_array = user_said.match(re1) 
 ```
 
-  * Input: It is good 
+  - Input: It is good 
     
     parse_array = ["It is good", "It is", "good"]
 
@@ -24,7 +24,7 @@
   var parse_array = user_said.match(re2) 
 ```
 
-  * Input: It is good 
+  - Input: It is good 
 
     parse_array = ["It is good", "good"]
 
@@ -52,7 +52,7 @@ if (good_words.indexOf(str) >= 0) {
 }
 ```
 
-  * Input: It is good
+  - Input: It is good
     
     parser_array = ["It is good", "good"]
     
@@ -60,7 +60,7 @@ if (good_words.indexOf(str) >= 0) {
     
     bad_words.indexOf(str) = -1
 
-  * Input: It's nice
+  - Input: It's nice
   
     parser_array = ["It's nice", "nice"]
 
@@ -68,7 +68,10 @@ if (good_words.indexOf(str) >= 0) {
   
     bad_words.indexOf(str) = -1
 
-   * Input: It sucks
-     parser_array = ["It sucks", "sucks"]
-     good_words.indexOf(str) = -1
-     bad_words.indexOf(str) = 2
+  - Input: It sucks
+    
+    parser_array = ["It sucks", "sucks"]
+    
+    good_words.indexOf(str) = -1
+    
+    bad_words.indexOf(str) = 2

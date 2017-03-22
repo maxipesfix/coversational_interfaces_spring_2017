@@ -11,7 +11,8 @@
 ```
 
   * Input: It is good 
-  * parse_array = ["It is good", "It is", "good"]
+    
+    parse_array = ["It is good", "It is", "good"]
 
 
 * Ignoring contents of the parenthesis in the output: (?: )
@@ -25,7 +26,7 @@
 
   * Input: It is good 
 
-  * parse_array = ["It is good", "good"]
+    parse_array = ["It is good", "good"]
 
 
 * Comparing input with dictionaries
@@ -52,13 +53,19 @@ if (good_words.indexOf(str) >= 0) {
 ```
 
   * Input: It is good
-  * parser_array = ["It is good", "good"]
+    
+    parser_array = ["It is good", "good"]
+    
     good_words.indexOf(str) = 0
+    
     bad_words.indexOf(str) = -1
 
   * Input: It's nice
-  * parser_array = ["It's nice", "nice"]
+  
+    parser_array = ["It's nice", "nice"]
+
     good_words.indexOf(str) = 2
+  
     bad_words.indexOf(str) = -1
 
    * Input: It sucks

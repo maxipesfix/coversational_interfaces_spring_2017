@@ -97,17 +97,21 @@ http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.143.9824&rep=rep1&type=
 Focus: Why express personality in an agent? Examples of doing it via verbal and non-verbal behaviors?
 
 - Project update: milestone 1.
-- Review: Regular Expressions, nonverbal behavior generation sample code.
+- Review: Conversational interfce architecture. Also if needed: Regular Expressions, nonverbal behavior generation sample code.
 
 
 ## Week 11 (4/3)
+- Project update: milestone 1.
+- User testing
 
 
 ## Week 12 (4/10)
+- Guest speaker Sridhar Raghavan: Jibo text-to-speech
+- Stuent presentations: Culture and conversational agents.
 - Project update: milestone 2.
 
 ## Week 13 (4/17)
-- TBD
+- Project update: milestone 2.
 
 ## Week 14 (4/24) 
 Final project presentations

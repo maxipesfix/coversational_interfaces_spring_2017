@@ -107,7 +107,10 @@ Focus: Why express personality in an agent? Examples of doing it via verbal and 
 
 ## Week 12 (4/10)
 - Guest speaker Sridhar Raghavan: Jibo text-to-speech
-- Stuent presentations: Culture and conversational agents.
+- Student presentations: Culture and conversational agents:
+  1. Robot design in different cultures: http://homes.soic.indiana.edu/selmas/Sabanovic-DE2010.pdf
+  2. User engagement with virtual agents in different cultures: http://iva2016.ict.usc.edu/wp-content/uploads/Papers/100110354.pdf
+
 - Project update: milestone 2.
 
 ## Week 13 (4/17)

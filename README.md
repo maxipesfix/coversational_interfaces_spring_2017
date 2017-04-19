@@ -1,4 +1,4 @@
-Conversational Interfaces DESGN-670-05 (4034)
+Conversational Interfaces DESGN-670-05 (4034) at California College of the Arts
 ## Spring 2017
 
 

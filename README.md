@@ -1,6 +1,6 @@
 Conversational Interfaces DESGN-670-05 (4034)
 ## Spring 2017
- 
+
 
 The course will introduce students to the foundations of conversational interaction with technology. The material is split into the following 3 parallel threads:
 - socio-linguistic phenomena of human-human communication

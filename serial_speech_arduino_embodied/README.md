@@ -2,16 +2,16 @@
 
 This version controls pin 13 of your Arduino via voice commands using Google voice API. It is using Serial connection with Arduino, and therefore has to run as a Chome extension, not a usual chrome page. The code is mostly the same.
 
-1. Connect Arduino to your Mac via USB.
-2. Upload the sketch inside sketches/serial_light/serial_light.ino to your Arduino.
-3. On Chrome browser: go to chrome://extensions , select Developer mode
-4. Press "Load unpacked extension" and go to this folder.
-5. Press Launch.
-6. The window with the character and the round LED indicator should come up. If the LED indicator is grey, just press "Reload".
-7. Use right click (two-finger click on a Mac trackpad) and choose "Inspect" to open Console window for debugging
-8. Test that light works by pressing "Toggle LED" button.
-9. Press "Speak" and say "Turn lights on" or "Turn lights off" 
-10. Modify to your liking
+ 1. Connect Arduino to your Mac via USB.
+ 2. Upload the sketch inside sketches/serial_light/serial_light.ino to your Arduino.
+ 3. On Chrome browser: go to chrome://extensions , select Developer mode
+ 4. Press "Load unpacked extension" and go to this folder.
+ 5. Press Launch.
+ 6. The window with the character and the round LED indicator should come up. If the LED indicator is grey, just press "Reload".
+ 7. Use right click (two-finger click on a Mac trackpad) and choose "Inspect" to open Console window for debugging
+ 8. Test that light works by pressing "Toggle LED" button.
+ 9. Press "Speak" and say "Turn lights on" or "Turn lights off" 
+ 10. Modify to your liking
 
 
 # Original README below:

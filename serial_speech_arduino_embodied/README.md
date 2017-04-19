@@ -13,6 +13,8 @@ This version controls pin 13 of your Arduino via voice commands using Google voi
  9. Press "Speak" and say "Turn lights on" or "Turn lights off".
  10. Modify to your liking.
 
+Note: This version does control Arduino via speech, not vice-versa. However the state of the LED is indeed being read from Arduino, so, this code can also be a starting point for controlling speech based on Arduino sensors.
+
 
 # Original README below:
 

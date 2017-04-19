@@ -11,7 +11,7 @@ This version controls pin 13 of your Arduino via voice commands using Google voi
  7. Use right click (two-finger click on a Mac trackpad) and choose "Inspect" to open Console window for debugging
  8. Test that light works by pressing "Toggle LED" button.
  9. Press "Speak" and say "Turn lights on" or "Turn lights off" 
- 10. Modify to your liking
+ 10. Modify to your liking.
 
 
 # Original README below:

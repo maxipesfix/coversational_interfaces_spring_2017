@@ -120,4 +120,12 @@ Focus: Why express personality in an agent? Examples of doing it via verbal and 
 Final project presentations
 
 
+Final project grading criteria:
+- Physical presence
+- Non-verbal embodied interaction
+- Verbal voice interaction
+- Non-verbal sound interaction
+- User testing
+- Process
+- Presentation
 

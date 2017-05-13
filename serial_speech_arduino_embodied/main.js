@@ -1,6 +1,6 @@
 // Serial used from your Arduino board
 //const DEVICE_PATH = 'COM11'; // PC
-const DEVICE_PATH = '/dev/tty.usbmodem1411'; // PC
+const DEVICE_PATH = '/dev/tty.usbmodem1421'; // PC
 //const DEVICE_PATH = '/dev/ttyACM0'; //MAC
 const serial = chrome.serial;
 
